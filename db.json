@@ -1,0 +1,172 @@
+[
+  {
+    "id": "certidao-simplificada",
+    "title": "Certidão simplificada",
+    "body": "A certidão simplificada constitui-se do resumo das informações atualizadas da empresa de acordo com os atos anteriormente arquivados.\nValor da certidão: R$",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-de-participacao-societaria-de-",
+    "title": "Certidão específica de Participação societária de pessoa jurídica em sociedade (exceto S.A e Cooperativas)",
+    "body": "Descrição da Certidão específica de Participação societária de pessoa jurídica em sociedade (exceto S.A e Cooperativas)",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+},
+  {
+    "id": "certidao-especifica-de-existencia-de-empresa-regis",
+    "title": "Certidão específica de Existência de empresa registrada na Junta Comercial (histórico de ato arquivado)",
+    "body": "Descrição da Certidão específica de Existência de empresa registrada na Junta Comercial (histórico de ato arquivado)",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-a-definir-relato",
+    "title": "Certidão específica A Definir Relato",
+    "body": "Descrição da Certidão específica A Definir Relato",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-de-livros",
+    "title": "Certidão específica de livros",
+    "body": "Descrição da Certidão específica de livros",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-armazens-gerais",
+    "title": "Certidão específica ARMAZÉNS GERAIS",
+    "body": "Descrição da Certidão específica ARMAZÉNS GERAIS",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-existencia-de-empresas-em-nome",
+    "title": "Certidão específica existência de empresas em nome de pessoas físicas e/ou participação de empresas",
+    "body": "Descrição da Certidão específica existência de empresas em nome de pessoas físicas e/ou participação de empresas",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-de-leiloeiro-e-progoeiro",
+    "title": "Certidão específica de leiloeiro e progoeiro",
+    "body": "Descrição da Certidão específica de leiloeiro e progoeiro",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "certidao-especifica-de-tradutor",
+    "title": "Certidão específica de tradutor",
+    "body": "Descrição da Certidão específica de tradutor",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  },
+  {
+    "id": "inteiro-teor",
+    "title": "Inteiro Teor",
+    "body": "Descrição do Inteiro Teor",
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
+  }
+]
