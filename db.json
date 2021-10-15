@@ -4,7 +4,18 @@
     "id": "certidao-simplificada",
     "title": "Certidão simplificada",
     "body": "A certidão simplificada constitui-se do resumo das informações atualizadas da empresa de acordo com os atos anteriormente arquivados.\nValor da certidão: R$",
-    "buttons": ""
+    "buttons": [
+        {
+            "label": "Ver modelo",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": false
+        },
+        {
+            "label": "Solicitar",
+            "link": "https://www.google.com/search?q=vox%20tecnologia",
+            "isPrimary": true
+        }
+    ]
   },
   {
     "id": "certidao-especifica-de-participacao-societaria-de-",
