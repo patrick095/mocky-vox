@@ -1,4 +1,5 @@
-"acoes-pages": [
+{
+  "acoes-pages": [
   {
     "id": "certidao-simplificada",
     "title": "Certidão simplificada",
@@ -170,3 +171,4 @@
     ]
   }
 ]
+}
